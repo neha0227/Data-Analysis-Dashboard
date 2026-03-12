@@ -87,3 +87,14 @@ Dataset used
 -<a href="https://github.com/neha0227/Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-11%20162134.png"> Dataset</a>
 <img width="1916" height="777" alt="Screenshot 2026-03-11 162134" src="https://github.com/user-attachments/assets/fe571cdb-fd45-4dc1-8934-7dad2136c581" />
 
+Conclusion .
+Amazon Sales Analysis Dashboard
+
+The Amazon Sales Analysis Dashboard developed using Microsoft Power BI provides a clear and interactive way to analyze sales performance and product trends. By transforming raw sales data into meaningful visualizations, the dashboard helps users quickly understand key business insights.
+
+The dashboard highlights important Key Performance Indicators (KPIs) such as Year-to-Date (YTD) Sales, Quarter-to-Date (QTD) Sales, total products sold, and customer reviews. These KPIs give a quick summary of the overall sales performance and customer engagement.
+
+Through visualizations like monthly sales trends, weekly sales distribution, product category analysis, and top-performing products, the dashboard makes it easy to identify patterns, peak sales periods, and the most profitable product categories. The use of interactive filters such as product category and quarter allows users to explore the data dynamically and gain deeper insights.
+
+Overall, this dashboard demonstrates how business intelligence tools can support data-driven decision making. It helps businesses monitor sales performance, identify high-demand products, and improve strategic planning to increase revenue and customer satisfaction.
+
