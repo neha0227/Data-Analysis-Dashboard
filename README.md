@@ -85,3 +85,5 @@ Dataset used
 
 #Dashboard 
 -<a href="https://github.com/neha0227/Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-11%20162134.png"> Dataset</a>
+<img width="1916" height="777" alt="Screenshot 2026-03-11 162134" src="https://github.com/user-attachments/assets/fe571cdb-fd45-4dc1-8934-7dad2136c581" />
+
